@@ -1,1 +1,1 @@
-Assignments related to AI added here
+ML/AI Assignments 
